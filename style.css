@@ -1,0 +1,22 @@
+#imagen_mariabonita {
+  display: flex;
+  width: 375px;
+  height: 600px;
+}
+
+#menu_principal {
+  justify-content: center;
+}
+
+nav {
+  width: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+nav > ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
